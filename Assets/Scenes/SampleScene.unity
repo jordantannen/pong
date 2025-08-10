@@ -644,6 +644,8 @@ MonoBehaviour:
   maxY: 4
   minY: -4
   ball: {fileID: 1387438413}
+  responseTimeUpper: 0.5
+  responseTimeLower: 0.005
 --- !u!61 &629813300
 BoxCollider2D:
   m_ObjectHideFlags: 0
